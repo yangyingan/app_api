@@ -1,0 +1,22 @@
+2020-04-09 15:36:01.602 [main] INFO  com.dm.ApiApplication - Starting ApiApplication v1.0-SNAPSHOT on yangyingan-PC with PID 8088 (D:\developer\java\workspace_svn\BaseProject\Api\target\api-1.0-SNAPSHOT.jar started by Administrator in D:\developer\java\workspace_svn\BaseProject\Api\target)
+2020-04-09 15:36:01.623 [main] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 15:36:04.328 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 15:36:04.340 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 15:36:04.463 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 54ms. Found 0 Redis repository interfaces.
+2020-04-09 15:36:10.639 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 15:36:10.704 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 15:36:10.717 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 15:36:10.719 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 15:36:11.306 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 15:36:11.307 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 9479 ms
+2020-04-09 15:36:19.533 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 15:36:19.764 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 15:36:19.774 [main] INFO  com.dm.ApiApplication - Started ApiApplication in 22.163 seconds (JVM running for 30.135)
+2020-04-09 15:37:27.989 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 15:37:27.993 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 15:37:28.028 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 34 ms
+2020-04-09 15:37:32.433 [http-nio-8080-exec-3] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========
+2020-04-09 15:37:38.446 [http-nio-8080-exec-4] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========
+2020-04-09 15:37:39.402 [http-nio-8080-exec-5] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========
+2020-04-09 15:37:40.761 [http-nio-8080-exec-6] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========
+2020-04-09 15:37:41.361 [http-nio-8080-exec-7] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========

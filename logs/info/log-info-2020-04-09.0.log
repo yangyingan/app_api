@@ -1,0 +1,423 @@
+2020-04-09 16:13:04.096 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 9360 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:13:04.101 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:13:04.181 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 16:13:04.181 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 16:13:06.668 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:13:06.676 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:13:06.797 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 76ms. Found 0 Redis repository interfaces.
+2020-04-09 16:13:09.504 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:13:09.529 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:13:09.531 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:13:09.532 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:13:09.841 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:13:09.842 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5661 ms
+2020-04-09 16:13:15.708 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 16:13:15.812 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:13:15.915 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 16:13:15.924 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 13.072 seconds (JVM running for 15.251)
+2020-04-09 16:13:26.558 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 16:13:26.559 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 16:13:26.589 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 30 ms
+2020-04-09 16:19:23.660 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 9360 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:19:23.661 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:19:24.484 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:19:24.485 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:19:24.548 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 62ms. Found 0 Redis repository interfaces.
+2020-04-09 16:19:25.092 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:19:25.093 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:19:25.094 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:19:25.095 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:19:25.169 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:19:25.170 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1496 ms
+2020-04-09 16:19:25.200 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-04-09 16:19:25.218 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-09 16:19:27.429 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 9360 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:19:27.429 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:19:28.401 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:19:28.401 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:19:28.466 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 63ms. Found 0 Redis repository interfaces.
+2020-04-09 16:19:29.162 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:19:29.164 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:19:29.164 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:19:29.165 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:19:29.266 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:19:29.266 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1823 ms
+2020-04-09 16:19:31.899 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 16:19:31.944 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:19:31.953 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 16:19:31.955 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 4.74 seconds (JVM running for 391.278)
+2020-04-09 16:19:31.963 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-04-09 16:19:32.800 [http-nio-8080-exec-2] INFO  o.a.c.c.ContainerBase.[Tomcat-1].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 16:19:32.803 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 16:19:32.826 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 23 ms
+2020-04-09 16:20:32.948 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 9668 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:20:32.953 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:20:33.026 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 16:20:33.027 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 16:20:35.370 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:20:35.382 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:20:35.510 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 73ms. Found 0 Redis repository interfaces.
+2020-04-09 16:20:38.092 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:20:38.114 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:20:38.116 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:20:38.116 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:20:38.385 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:20:38.386 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5359 ms
+2020-04-09 16:20:43.592 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 16:20:43.664 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:20:43.733 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 16:20:43.742 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 11.929 seconds (JVM running for 13.989)
+2020-04-09 16:20:53.149 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 16:20:53.150 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 16:20:53.186 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 36 ms
+2020-04-09 16:21:13.138 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-09 16:23:46.332 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-09 16:24:27.203 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-09 16:24:28.537 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-09 16:36:18.309 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-09 16:36:18.332 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-09 16:37:20.062 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 10920 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:37:20.067 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:37:20.148 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 16:37:20.148 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 16:37:22.466 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:37:22.475 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:37:22.594 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 74ms. Found 0 Redis repository interfaces.
+2020-04-09 16:37:25.357 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:37:25.391 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:37:25.393 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:37:25.394 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:37:25.764 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:37:25.765 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5617 ms
+2020-04-09 16:37:31.721 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 16:37:31.793 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:37:31.870 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 16:37:31.882 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 13.036 seconds (JVM running for 16.218)
+2020-04-09 16:37:33.719 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 16:37:33.720 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 16:37:33.757 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 36 ms
+2020-04-09 16:37:34.185 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-09 16:37:35.807 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-09 16:37:47.000 [http-nio-8080-exec-3] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-04-09 16:37:47.007 [http-nio-8080-exec-3] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-04-09 16:39:03.082 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-09 16:39:03.100 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-09 16:39:28.505 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 7692 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:39:28.511 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:39:28.607 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 16:39:28.608 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 16:39:30.905 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:39:30.913 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:39:31.038 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 80ms. Found 0 Redis repository interfaces.
+2020-04-09 16:39:33.570 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:39:33.595 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:39:33.597 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:39:33.598 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:39:33.881 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:39:33.882 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5273 ms
+2020-04-09 16:39:39.113 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 16:39:39.170 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:39:39.241 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 16:39:39.249 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 12.315 seconds (JVM running for 15.23)
+2020-04-09 16:43:10.248 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 7692 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:43:10.249 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:43:10.979 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:43:10.980 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:43:11.022 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 41ms. Found 0 Redis repository interfaces.
+2020-04-09 16:43:11.546 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:43:11.548 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:43:11.549 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:43:11.550 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:43:11.612 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:43:11.612 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1349 ms
+2020-04-09 16:43:13.542 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 16:43:13.582 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:43:13.591 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 16:43:13.594 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 3.603 seconds (JVM running for 229.572)
+2020-04-09 16:43:13.600 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-04-09 16:43:18.004 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 7692 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:43:18.005 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:43:18.899 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:43:18.900 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:43:18.949 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 48ms. Found 0 Redis repository interfaces.
+2020-04-09 16:43:19.732 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:43:19.734 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:43:19.734 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:43:19.735 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:43:19.801 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:43:19.801 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1783 ms
+2020-04-09 16:43:19.830 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-04-09 16:43:19.848 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-09 16:44:05.328 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 11516 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 16:44:05.332 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 16:44:05.399 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 16:44:05.399 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 16:44:08.023 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 16:44:08.030 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 16:44:08.132 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 63ms. Found 0 Redis repository interfaces.
+2020-04-09 16:44:10.781 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 16:44:10.815 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:44:10.818 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 16:44:10.819 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 16:44:11.107 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 16:44:11.108 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5708 ms
+2020-04-09 16:44:16.930 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 16:44:17.000 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 16:44:17.085 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 16:44:17.094 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 13.009 seconds (JVM running for 15.417)
+2020-04-09 16:44:22.843 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 16:44:22.844 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 16:44:22.873 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 28 ms
+2020-04-09 16:44:23.185 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-09 16:44:24.851 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-09 16:44:25.439 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-04-09 16:44:25.445 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-04-09 16:45:10.903 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:45:10.906 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:null
+2020-04-09 16:45:10.908 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦~!
+2020-04-09 16:46:10.212 [http-nio-8080-exec-3] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:46:10.213 [http-nio-8080-exec-3] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:null
+2020-04-09 16:46:10.213 [http-nio-8080-exec-3] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦~!
+2020-04-09 16:47:02.409 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:47:02.410 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:
+2020-04-09 16:47:02.411 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦~!
+2020-04-09 16:47:07.670 [http-nio-8080-exec-6] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:47:07.670 [http-nio-8080-exec-6] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:
+2020-04-09 16:47:07.671 [http-nio-8080-exec-6] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦~!
+2020-04-09 16:47:21.467 [http-nio-8080-exec-7] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:47:31.815 [http-nio-8080-exec-7] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:
+2020-04-09 16:47:31.815 [http-nio-8080-exec-7] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦~!
+2020-04-09 16:47:40.889 [http-nio-8080-exec-8] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:47:43.690 [http-nio-8080-exec-8] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 16:47:43.766 [http-nio-8080-exec-8] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========
+2020-04-09 16:47:59.401 [http-nio-8080-exec-9] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:47:59.402 [http-nio-8080-exec-9] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d2
+2020-04-09 16:47:59.410 [http-nio-8080-exec-9] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：登录已过期,请重新登录
+2020-04-09 16:48:06.898 [http-nio-8080-exec-10] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:48:06.899 [http-nio-8080-exec-10] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 16:48:06.957 [http-nio-8080-exec-10] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========
+2020-04-09 16:48:10.263 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:48:10.264 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:
+2020-04-09 16:48:10.265 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦~!
+2020-04-09 16:48:14.114 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:48:14.115 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 16:48:14.146 [http-nio-8080-exec-2] INFO  com.dm.core.annotation.auth.PermissionsAspect - ========没有权限访问【com.dm.api.system.UserApi.listUsers】========
+2020-04-09 16:49:19.123 [http-nio-8080-exec-4] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 16:49:19.124 [http-nio-8080-exec-4] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:01:55.392 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-09 17:01:55.415 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-09 17:02:22.381 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 5668 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:02:22.387 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:02:22.473 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:02:22.473 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:02:24.130 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:02:24.139 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:02:24.266 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 79ms. Found 0 Redis repository interfaces.
+2020-04-09 17:02:27.130 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:02:27.156 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:02:27.158 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:02:27.160 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:02:27.480 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:02:27.481 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5008 ms
+2020-04-09 17:02:33.390 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:02:33.452 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:02:33.512 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 17:02:33.517 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 12.491 seconds (JVM running for 15.159)
+2020-04-09 17:03:49.028 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 12236 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:03:49.033 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:03:49.123 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:03:49.123 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:03:50.799 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:03:50.807 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:03:50.946 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 87ms. Found 0 Redis repository interfaces.
+2020-04-09 17:03:53.634 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:03:53.663 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:03:53.665 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:03:53.666 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:03:54.163 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:03:54.164 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5040 ms
+2020-04-09 17:04:00.022 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:04:00.088 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:04:00.152 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 17:04:00.160 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 12.365 seconds (JVM running for 14.779)
+2020-04-09 17:04:13.384 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 17:04:13.385 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 17:04:13.419 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 33 ms
+2020-04-09 17:04:13.496 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:04:13.499 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:null
+2020-04-09 17:04:13.509 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦！
+2020-04-09 17:04:31.411 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:04:31.412 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:04:31.803 [http-nio-8080-exec-2] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-04-09 17:04:31.806 [http-nio-8080-exec-2] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-04-09 17:08:12.766 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:08:12.767 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:09:52.585 [http-nio-8080-exec-7] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:09:52.585 [http-nio-8080-exec-7] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:15:34.369 [http-nio-8080-exec-9] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:15:34.371 [http-nio-8080-exec-9] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:
+2020-04-09 17:15:34.373 [http-nio-8080-exec-9] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截器异常：请登录后再操作哦！
+2020-04-09 17:15:39.607 [http-nio-8080-exec-10] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:15:39.608 [http-nio-8080-exec-10] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:18:07.137 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 10116 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:18:07.141 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:18:07.225 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:18:07.226 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:18:09.503 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:18:09.510 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:18:09.630 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 77ms. Found 0 Redis repository interfaces.
+2020-04-09 17:18:12.193 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:18:12.221 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:18:12.223 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:18:12.224 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:18:12.561 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:18:12.562 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5336 ms
+2020-04-09 17:18:18.222 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:18:18.291 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:18:18.362 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 17:18:18.370 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 12.601 seconds (JVM running for 15.663)
+2020-04-09 17:18:19.321 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 17:18:19.322 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 17:18:19.429 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 106 ms
+2020-04-09 17:18:19.524 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:18:19.526 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:18:19.823 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-04-09 17:18:19.828 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-04-09 17:18:24.891 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:18:24.891 [http-nio-8080-exec-2] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:18:56.468 [http-nio-8080-exec-3] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:18:56.471 [http-nio-8080-exec-3] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:18:59.632 [http-nio-8080-exec-4] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:18:59.633 [http-nio-8080-exec-4] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:19:00.999 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:19:01.000 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:19:43.441 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 8832 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:19:43.446 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:19:43.531 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:19:43.532 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:19:45.757 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:19:45.766 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:19:45.887 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 76ms. Found 0 Redis repository interfaces.
+2020-04-09 17:19:48.608 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:19:48.637 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:19:48.639 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:19:48.639 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:19:48.983 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:19:48.984 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5452 ms
+2020-04-09 17:19:54.640 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:19:54.708 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:19:54.783 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 17:19:54.793 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 12.838 seconds (JVM running for 15.384)
+2020-04-09 17:20:01.309 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 17:20:01.309 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 17:20:01.341 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 31 ms
+2020-04-09 17:20:01.414 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:20:01.416 [http-nio-8080-exec-1] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:20:01.822 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-04-09 17:20:01.826 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-04-09 17:23:53.559 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 6524 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:23:53.564 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:23:53.651 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:23:53.652 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:23:55.681 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:23:55.689 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:23:55.817 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 83ms. Found 0 Redis repository interfaces.
+2020-04-09 17:23:58.419 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:23:58.448 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:23:58.451 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:23:58.452 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:23:58.780 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:23:58.781 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5129 ms
+2020-04-09 17:24:04.269 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:24:04.335 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:24:04.403 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-09 17:24:04.412 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 12.019 seconds (JVM running for 14.252)
+2020-04-09 17:24:16.678 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 17:24:16.679 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 17:24:16.706 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 26 ms
+2020-04-09 17:24:51.029 [http-nio-8080-exec-3] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:24:51.032 [http-nio-8080-exec-3] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:24:51.499 [http-nio-8080-exec-3] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-04-09 17:24:51.506 [http-nio-8080-exec-3] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-04-09 17:28:29.074 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 5656 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:28:29.080 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:28:29.156 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:28:29.157 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:28:31.776 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:28:31.784 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:28:31.905 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 76ms. Found 0 Redis repository interfaces.
+2020-04-09 17:28:34.603 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:28:34.631 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:28:34.633 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:28:34.634 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:28:34.964 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/app/api] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:28:34.965 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5808 ms
+2020-04-09 17:28:40.596 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:28:40.652 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:28:40.710 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/app/api'
+2020-04-09 17:28:40.717 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 12.7 seconds (JVM running for 15.691)
+2020-04-09 17:29:39.127 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 8436 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:29:39.131 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:29:39.200 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:29:39.200 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:29:41.749 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:29:41.757 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:29:41.879 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 77ms. Found 0 Redis repository interfaces.
+2020-04-09 17:29:45.050 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:29:45.080 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:29:45.082 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:29:45.083 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:29:45.424 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/app/api] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:29:45.425 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6225 ms
+2020-04-09 17:29:51.082 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:29:51.147 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:29:51.216 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/app/api'
+2020-04-09 17:29:51.225 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 13.354 seconds (JVM running for 15.148)
+2020-04-09 17:30:43.075 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 1068 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:30:43.080 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:30:43.168 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:30:43.168 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:30:45.399 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:30:45.411 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:30:45.559 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 91ms. Found 0 Redis repository interfaces.
+2020-04-09 17:30:48.280 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:30:48.309 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:30:48.311 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:30:48.312 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:30:48.655 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/app/api] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:30:48.655 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5486 ms
+2020-04-09 17:30:54.814 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:30:54.869 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:30:54.927 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/app/api'
+2020-04-09 17:30:54.937 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 13.321 seconds (JVM running for 16.479)
+2020-04-09 17:31:07.160 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/app/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 17:31:07.161 [http-nio-8080-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 17:31:07.197 [http-nio-8080-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 35 ms
+2020-04-09 17:31:12.003 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 开始进入登录拦截........
+2020-04-09 17:31:12.005 [http-nio-8080-exec-5] INFO  com.dm.core.interceptor.LoginInterceptor - 拦截到的token为:b15fe4722875851d7a154c6802cb0c9d
+2020-04-09 17:31:12.348 [http-nio-8080-exec-5] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-04-09 17:31:12.353 [http-nio-8080-exec-5] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-04-09 17:33:15.168 [restartedMain] INFO  com.dm.ApiApplication - Starting ApiApplication on yangyingan-PC with PID 2452 (D:\developer\java\workspace_svn\BaseProject\Api\target\classes started by Administrator in D:\developer\java\workspace_svn\BaseProject)
+2020-04-09 17:33:15.174 [restartedMain] INFO  com.dm.ApiApplication - The following profiles are active: dev
+2020-04-09 17:33:15.278 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-09 17:33:15.279 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-09 17:33:17.600 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-09 17:33:17.608 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-09 17:33:17.741 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 85ms. Found 0 Redis repository interfaces.
+2020-04-09 17:33:20.425 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-09 17:33:20.454 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:33:20.456 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-09 17:33:20.457 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-09 17:33:20.804 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/app/api] - Initializing Spring embedded WebApplicationContext
+2020-04-09 17:33:20.805 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5526 ms
+2020-04-09 17:33:26.664 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-09 17:33:26.723 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-09 17:33:26.788 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/app/api'
+2020-04-09 17:33:26.799 [restartedMain] INFO  com.dm.ApiApplication - Started ApiApplication in 13.134 seconds (JVM running for 16.022)
+2020-04-09 17:35:07.771 [http-nio-8080-exec-5] INFO  o.a.c.c.C.[Tomcat].[localhost].[/app/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-09 17:35:07.772 [http-nio-8080-exec-5] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-09 17:35:07.816 [http-nio-8080-exec-5] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 43 ms

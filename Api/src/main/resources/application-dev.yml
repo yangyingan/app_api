@@ -1,0 +1,42 @@
+server:
+    port: 8080
+    tomcat:
+        uri-encoding: UTF-8
+    servlet:
+        context-path: /app/api
+
+spring:
+    mvc:
+        throw-exception-if-no-handler-found: true
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://192.168.7.129:3306/shiro?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&useSSL=true&serverTimezone=UTC
+        username: root
+        password: 123456
+        validationQuery: SELECT 1 FROM DUAL
+        type:  com.zaxxer.hikari.HikariDataSource
+        hikari:
+            maximum-pool-size: 100
+            minimum-idle: 5
+            idle-timeout: 10000
+            validation-timeout: 10000
+    redis:
+        database: 0
+        host: 127.0.0.1
+        port: 6379
+        timeout: 2000s
+        jedis:
+            pool:
+                max-active: 8
+                max-wait: 1ms
+                max-idle: 8
+                min-idle: 0
+
+mybatis-plus:
+    mapper-locations: classpath*:/mappers/**/*.xml
+    type-aliases-package: com.dm.system.entity
+
+logging:
+    config: classpath:logback-spring.xml
+    file:
+        path: logs/

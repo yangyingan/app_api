@@ -1,0 +1,8 @@
+com\dm\api\system\UserRoleApi.class
+com\dm\ApiApplication.class
+com\dm\api\system\RolePermissionApi.class
+com\dm\api\system\UserApi.class
+com\dm\api\test\TestApi.class
+com\dm\api\system\PermissionApi.class
+com\dm\api\system\RoleApi.class
+com\dm\api\system\LoginApi.class
